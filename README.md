@@ -7,11 +7,9 @@ An instance of the bi-objective QAP consists of a $2 \times n \times n$ flow mat
 
 
 
- $c(x) = \sum_{a=1}^{2} \lambda_a \cdot \left ( \sum_{i=1}^{n}\sum_{j=1}^{n}\sum_{k=1}^{n}\sum_{l=1}^{n}h_{k,i,j}d_{k,l}x_{i,j}x_{j,l} \right )$
-
- $g_{1,i}(x) = \sum_{j=1}^{n} x_{i,j}  \equiv 1\  \forall\  i \in \left \{ 1,\cdots ,n \right \}$
-
- $g_{2,j}(x) = \sum_{i=1}^{n} x_{i,j}  \equiv 1\  \forall\  j \in \left \{ 1,\cdots ,n \right \}$
+ $$c(x) = \sum_{a=1}^{2} \lambda_a \cdot \left(\sum_{i=1}^{n}\sum_{j=1}^{n}\sum_{k=1}^{n}\sum_{l=1}^{n}h_{k,i,j}d_{k,l}x_{i,j}x_{j,l} \right)\\
+ g_{1,i}(x) = \sum_{j=1}^{n} x_{i,j}  \equiv 1\  \forall\  i \in \left \{ 1,\cdots ,n \right \} \\
+ g_{2,j}(x) = \sum_{i=1}^{n} x_{i,j}  \equiv 1\  \forall\  j \in \left \{ 1,\cdots ,n \right \}$$
 
 # References
 
