@@ -2,7 +2,8 @@
 # Solving Bi-objective Quadratic Assignment Problems using CQM
 This project contains code for the paper titled 'Utilising Quantum Hybrid Solver for Bi-objective Quadratic Assignment Problems'.  
 
-
+The bi-objective QAP is an extension of the classic QAP that incorporates two distinct objectives. The QAP involves assigning a set of facilities to a set of locations in a way that minimises the sum of the products between flows and distances. In the bi-objective variant, there are two such cost functions to minimise. The challenge in the bi-objective QAP is to find assignments that achieve a good balance between these two objectives. This requires navigating the trade-offs between both objectives to identify Pareto-optimal solutions,these are solutions for which no other solution is better in both objectives and therefore represent the best compromises available in the solution space.
+An instance of the bi-objective QAP consists of a $2 \times n \times n$ flow matrix $H=[h_{kij}]$ and a $n \times n$ distance matrix $D=[d_{kl}]$. The two-way one-hot also known as permutation matrix representation is used in this implementation. The cost function of the bi-objective QAP is defined as
 
 
 
