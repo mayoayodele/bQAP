@@ -20,7 +20,9 @@ The bi-objective instances as well as the Pareto optimal solutions can be found 
 
 # Getting Started
 
-'''python main.py'''
+  ```sh
+   python main.py
+   ```
 
 
 # References
