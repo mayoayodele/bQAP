@@ -35,7 +35,9 @@ The bi-objective instances as well as the Pareto optimal solutions can be found 
   ```sh
    python main.py
    ```
-
+# Example
+The plot below shows a run comparing all three aggregation methods 
+![alt text]([http://url/to/img.png](https://github.com/mayoayodele/bQAP/blob/main/plots/qapStr.25.0.1_0_solution2024-04-22%2002.14.56.png))
 
 # References
 
