@@ -13,7 +13,9 @@ An instance of the bi-objective QAP consists of a $2 \times n \times n$ flow mat
 
 $$ g_{2,j}(x) = \sum_{i=1}^{n} x_{i,j}  \equiv 1\  \forall\  j \in \{ 1,\cdots ,n \}$$
 
+# Problem Instances
 
+\url{https://eden.dei.uc.pt/~paquete/qap/}
 
 # References
 
