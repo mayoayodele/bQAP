@@ -19,7 +19,19 @@ The bi-objective instances as well as the Pareto optimal solutions can be found 
 
 
 # Getting Started
+## Install the requirements
+  ```sh
+   pip install -r requirements.txt
+   ```
+## Set parameters in config.yaml
+ ```sh
+   problem-name:  'qapStr.25.0.1' 
+   scalarisation-method: 'uniform'
+   number-of-weights: 10
+   time-limit: 5
+   ```
 
+## Run the code
   ```sh
    python main.py
    ```
