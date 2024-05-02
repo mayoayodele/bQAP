@@ -17,6 +17,12 @@ $$ g_{2,j}(x) = \sum_{i=1}^{n} x_{i,j}  \equiv 1\  \forall\  j \in \{ 1,\cdots ,
 
 The bi-objective instances as well as the Pareto optimal solutions can be found in https://eden.dei.uc.pt/~paquete/qap/
 
+
+# Getting Started
+
+'''python main.py'''
+
+
 # References
 
 1. Ayodele, M., 2024, July. Utilising Quantum Hybrid Solver for Bi-objective Quadratic Assignment Problems. In Proceedings of the Companion Conference on Genetic and Evolutionary Computation (GECCO '24 Companion). Association for Computing Machinery, New York, NY, USA, 2166–2174. 
