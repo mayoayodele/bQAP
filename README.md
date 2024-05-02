@@ -39,6 +39,10 @@ The bi-objective instances as well as the Pareto optimal solutions can be found 
 The plot below shows a run comparing all three aggregation methods 
 ![plot](https://github.com/mayoayodele/bQAP/blob/main/plots/qapStr.25.0.1_0_solution2024-04-22%2002.14.56.png)
 
+
+# Additional Notes
+Although the methods presented in this work is general, this implementation uses the CQM solver.Installation information can be found in https://docs.ocean.dwavesys.com/en/stable/overview/install.html  
+
 # References
 
 1. Ayodele, M., 2024, July. Utilising Quantum Hybrid Solver for Bi-objective Quadratic Assignment Problems. In Proceedings of the Companion Conference on Genetic and Evolutionary Computation (GECCO '24 Companion). Association for Computing Machinery, New York, NY, USA, 2166–2174. 
