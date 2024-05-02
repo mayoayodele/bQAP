@@ -1,0 +1,12 @@
+# set the problem name 
+problem-name:  'qapStr.25.p75.2' 
+
+#set the scalarisatio method scalarisation_method can accept one of these values: ['averages', 'dichotomic', 'uniform']
+scalarisation-method: 'dichotomic'
+
+#set the number of aggregation weights
+number-of-weights: 10
+
+#set the time limit per aggregation
+time-limit: 5
+
