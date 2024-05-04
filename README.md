@@ -43,7 +43,7 @@ The plot below shows a run comparing all three aggregation methods. Each method 
 
 
 # Additional Notes
-Although the methods presented in this work is general, this implementation uses the CQM solver.Installation information can be found in https://docs.ocean.dwavesys.com/en/stable/overview/install.html  
+Although the methods presented in this work are general, this implementation uses the CQM solver. Installation information can be found in https://docs.ocean.dwavesys.com/en/stable/overview/install.html  
 
 # References
 
