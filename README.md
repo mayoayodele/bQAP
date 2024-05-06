@@ -39,8 +39,9 @@ The bi-objective instances as well as the Pareto optimal solutions can be found 
 The plot below shows a run comparing all three aggregation methods. Each method was executed with exactly 10 scalarisation weights
 
 
-![plot](https://github.com/mayoayodele/bQAP/blob/main/plots/qapStr.25.0.1_0_solution2024-04-22%2002.14.56.png)
-
+![plot](https://github.com/mayoayodele/bQAP/blob/main/plots/qapStr.25.0.1.png)
+![plot](https://github.com/mayoayodele/bQAP/blob/main/plots/qapStr.25.p75.1.png)
+![plot](https://github.com/mayoayodele/bQAP/blob/main/plots/qapStr.25.n75.1.png)
 
 # Additional Notes
 Although the methods presented in this work are general, this implementation uses the CQM solver. Installation information for this solver can be found in https://docs.ocean.dwavesys.com/en/stable/overview/install.html  
