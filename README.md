@@ -38,9 +38,13 @@ The bi-objective instances as well as the Pareto optimal solutions can be found 
 # Example
 The plot below shows a run comparing all three aggregation methods. Each method was executed with exactly 10 scalarisation weights
 
-
+problem instance __qapStr.25.0.1__
 ![plot](https://github.com/mayoayodele/bQAP/blob/main/plots/qapStr.25.0.1.png)
+
+problem instance __qapStr.25.p75.1__
 ![plot](https://github.com/mayoayodele/bQAP/blob/main/plots/qapStr.25.p75.1.png)
+
+problem instance __qapStr.25.n75.1__
 ![plot](https://github.com/mayoayodele/bQAP/blob/main/plots/qapStr.25.n75.1.png)
 
 # Additional Notes
