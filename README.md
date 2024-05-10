@@ -52,7 +52,7 @@ Although the methods presented in this work are general, this implementation use
 
 # References
 
-1. Ayodele, M., 2024, July. Utilising Quantum Hybrid Solver for Bi-objective Quadratic Assignment Problems. In Proceedings of the Companion Conference on Genetic and Evolutionary Computation (GECCO '24 Companion). Association for Computing Machinery, New York, NY, USA. https://doi.org/10.1145/3638530.3664097
+1. Mayowa Ayodele. 2024. Utilising Quantum Hybrid Solver for Bi-objective Quadratic Assignment Problems. In Genetic and Evolutionary Computation Conference (GECCO ’24 Companion), July 14–18, 2024, Melbourne, VIC, Australia. ACM, New York, NY, USA, 2 pages. https://doi.org/10.1145/3638530.3664097
 
 
 2. Mayowa Ayodele, Richard Allmendinger, Manuel López-Ibáñez, Arnaud Liefooghe, and Matthieu Parizy. 2023. Applying Ising Machines to Multi-objective QUBOs. In Proceedings of the Companion Conference on Genetic and Evolutionary Computation (GECCO '23 Companion). Association for Computing Machinery, New York, NY, USA, 2166–2174. https://doi.org/10.1145/3583133.3596312
